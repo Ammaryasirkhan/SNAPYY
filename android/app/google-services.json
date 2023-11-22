@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003484020090",
+    "project_id": "stylesavy-74cc8",
+    "storage_bucket": "stylesavy-74cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003484020090:android:a7ad4334949ee1572aaac3",
+        "android_client_info": {
+          "package_name": "com.example.style_savy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb547VWddvlpDzqLG6M1KyKXpGCT4OAHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
